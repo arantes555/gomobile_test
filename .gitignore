@@ -15,3 +15,5 @@ test_output/
 
 # use as test directories
 tmp/
+
+GomobileTest.xcframework
