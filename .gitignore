@@ -1,0 +1,17 @@
+.idea/
+.DS_Store
+node_modules/
+.vscode/
+build/
+lib/
+*.so
+bindings.h
+coverage.txt
+coverage.xml
+test_output/
+!test_output/.keep
+/test_artifacts
+/.build/
+
+# use as test directories
+tmp/
